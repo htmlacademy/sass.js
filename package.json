@@ -18,7 +18,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/medialize/sass.js.git"
+    "url": "ssh://git@github.com:htmlacademy/sass.js.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "license": "MIT",
   "keywords": [
